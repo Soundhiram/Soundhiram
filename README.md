@@ -30,8 +30,8 @@ I'm a passionate **Full Stack Developer** from Tamil Nadu, India. I specialize i
 ---
 
 ### 📫 How to reach me:
-- 📧 Email: [youremail@example.com]  
-- 🌐 Portfolio: [https://yourwebsite.com]  
+- 📧 Email: [soundhiramr@gmail.com]  
+- 🌐 Portfolio: [*]  
 - 💼 LinkedIn: [linkedin.com/in/soundhiram](https://linkedin.com/in/soundhiram)
 
 ---
